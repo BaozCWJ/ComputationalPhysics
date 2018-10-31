@@ -1,0 +1,14 @@
+源代码在Windows10系统的Python3环境下运行，需要numpy/math/matplotlib库
+
+Newton.py 用于计算Newton多项式插值并绘制图像
+Lagrange.py用于计算Lagrange多项式插值并绘制图像
+Chebyshev.py用于计算Chebyshev多项式插值并绘制图像
+Spline3.py用于计算三次样条插值并绘制图像
+Cardioid.py用于计算三次样条多项式插值并绘制心形曲线图像
+NumD.py 包含描述Zeta函数的数值函数以及求解低能散射的q^2
+
+以下Excel表，由xlwt库写入
+Newton.xls Newton多项式插值数据
+chebyshev.xls Chebyshev插值数据
+Spline3.xls 三次样条插值数据
+card.xls 插值函数系数表

@@ -1,0 +1,5 @@
+源代码在Windows10系统的Python3环境下运行，需要numpy库
+
+det.py 用于计算Hilbert矩阵的行列式
+GEM.py用高斯消元法求解Hilebert矩阵方程
+Cholesky.py用Cholesky分解求解Hilebert矩阵方程

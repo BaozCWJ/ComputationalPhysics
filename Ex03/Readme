@@ -1,0 +1,6 @@
+源代码在Windows10系统的Python3环境下运行，需要numpy/time库
+
+GivensQR.py  为封装的GivensQR分解函数
+HouseholderQR.py  为封装的HouseholderQR分解函数
+TestPart.py   为测试Householder和Givens效率的函数
+PowerMethod.py   用幂方法求解一维链矩阵特征值

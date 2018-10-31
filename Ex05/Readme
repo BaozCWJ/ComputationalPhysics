@@ -1,0 +1,6 @@
+源代码在Windows10系统的Python3环境下运行，需要numpy/matplotlib/math库
+
+Upwind.py 为迎风差分格式求解一维对流方程
+Soliton.py 求解KdeV方程得到孤立子
+upwind1.gif、upwind2.gif、upwind3.gif 分别为不同条件下的对流解的动态图
+Soliton.gif 为孤立子的动态图

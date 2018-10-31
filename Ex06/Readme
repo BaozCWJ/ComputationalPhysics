@@ -1,0 +1,3 @@
+源代码在Windows10系统的Python3环境下运行，需要numpy/matplotlib/math库
+
+RandWalk.py 是模拟并展示一维随机行走的程序

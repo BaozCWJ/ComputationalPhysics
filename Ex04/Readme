@@ -1,0 +1,7 @@
+源代码在Windows10系统的Python3环境下运行，需要numpy/matplotlib库
+
+RKsolve.py  为封装的4阶RungeKutta分解函数
+ElecMagn.py  使用4阶RungeKutta求解电磁学运动方程
+2ODE.py   使用4阶RungeKutta求解二阶常微分方程
+Lorenz.py   使用4阶RungeKutta模拟不同的Lorenz吸引子
+1DPoisson.py  使用二阶差分求解齐次边界条件的一维Poisson方程
